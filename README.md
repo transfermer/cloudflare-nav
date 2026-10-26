@@ -1,50 +1,5 @@
 # 🧭 CloudNav - 極簡高效的個人網站導航
 
-<div align="center">
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build](https://img.shields.io/badge/build-Cloudflare%20Pages-orange.svg)
-![Vanilla JS](https://img.shields.io/badge/es6-Vanilla%20JS-yellow.svg)
-![PWA](https://img.shields.io/badge/PWA-Supported-8A2BE2.svg)
-
-**基於 Cloudflare Pages 和 Workers KV 構建的純雲端、無服務器個人導航頁。**<br>
-零代碼基礎，全程使用 Google Gemini 問答和生成代碼，採用響應式毛玻璃（Glassmorphism）卡片設計，原生 JavaScript 開發，0 成本 5 分鐘極速部署。
-
-[👉 在線預覽 Demo ，登錄後臺密碼 123456  👈](https://cloudflare-nav-demo.pages.dev)
-
-</div>
-
-## 📸 界面預覽
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; width: 50%;">
-      <img src="public/assets/img/preview/homepage.jpg" width="100%" alt="首頁頁面預覽" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <br>
-      <sub><b>✨ 首頁頁面預覽</b></sub>
-    </td>
-    <td align="center" style="border: none; width: 50%;">
-      <img src="public/assets/img/preview/setting.jpg" width="100%" alt="後臺管理頁面預覽" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <br>
-      <sub><b>⚙️ 後臺管理頁面預覽</b></sub>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" style="border: none; width: 50%;">
-      <img src="public/assets/img/preview/web1.jpg" width="100%" alt="網址條目新增頁面預覽" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <br>
-      <sub><b>➕ 網址條目新增頁面預覽</b></sub>
-    </td>
-    <td align="center" style="border: none; width: 50%;">
-      <img src="public/assets/img/preview/web2.jpg" width="100%" alt="分類管理頁面預覽" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <br>
-      <sub><b>📁 分類管理頁面預覽</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## ✨ 核心特性
 
 ### 🚀 極速輕量
